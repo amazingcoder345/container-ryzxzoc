@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "amazingcoder345",
+  "repo": "container-ryzxzoc",
+  "name": "amazingcoder345",
+  "email": "ashfordj5@hwbcymru.net",
+}
